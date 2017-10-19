@@ -5,7 +5,7 @@ using Microsoft.Extensions.Logging;
 using MVCMovie;
 using MVCMovie.Models;
 using System;
-
+//Teste
 namespace MvcMovie
 {
     public class Program

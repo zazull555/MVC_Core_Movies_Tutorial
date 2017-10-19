@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zorg\\source\\repos\\MVCMovie\\MVCMovie\\MVCMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Zorg\\Source\\Repos\\MVC_Core_Movies_Tutorial\\MVCMovie\\MVCMovie.csproj",
       "projectName": "MVCMovie",
-      "projectPath": "C:\\Users\\Zorg\\source\\repos\\MVCMovie\\MVCMovie\\MVCMovie.csproj",
+      "projectPath": "C:\\Users\\Zorg\\Source\\Repos\\MVC_Core_Movies_Tutorial\\MVCMovie\\MVCMovie.csproj",
       "packagesPath": "C:\\Users\\Zorg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zorg\\source\\repos\\MVCMovie\\MVCMovie\\obj\\",
+      "outputPath": "C:\\Users\\Zorg\\Source\\Repos\\MVC_Core_Movies_Tutorial\\MVCMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
